@@ -19,6 +19,22 @@ https://www.youtube.com/watch?v=0w8J9bmCI54
 
 Wifi SSID: WIFI 名字
 
+
+
+
+
+POC，全称”Proof of Concept”，中文“概念验证”，常指一段漏洞证明的代码。
+
+EXP，全称”Exploit”，中文“利用”，指利用系统漏洞进行攻击的动作。
+
+Payload，中文“有效载荷”，指成功exploit之后，真正在目标系统执行的代码或指令。
+
+Shellcode，简单翻译“shell代码”，是Payload的一种，由于其建立正向/反向shell而得名。
+
+
+
+
+
 ### exploit 1
 
 map=0后 if 就不进入
@@ -106,3 +122,18 @@ nc gw 23 连接， 输入token进行连接。
 FatFs
 
 绕过update验证
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
