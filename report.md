@@ -83,6 +83,12 @@ https://blog.csdn.net/py_panyu/article/details/46439999
 
 
 
+https://blog.csdn.net/iteye_21199/article/details/82452836?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control
+
+
+
+https://www.cnblogs.com/gm-201705/p/9863995.html
+
 ### IC
 
 轮换密钥在CID
